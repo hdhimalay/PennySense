@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.pennysense.app-mergeDebugResources-3:/layout/fragment_add_transaction.xml",
+        "source": "com.example.pennysense.app-main-6:/layout/fragment_add_transaction.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-mergeDebugResources-3:/layout/row_transaction.xml",
+        "source": "com.example.pennysense.app-main-6:/layout/row_transaction.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-mergeDebugResources-3:/layout/list_dialog.xml",
+        "source": "com.example.pennysense.app-main-6:/layout/list_dialog.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-mergeDebugResources-3:/layout/row_account.xml",
+        "source": "com.example.pennysense.app-main-6:/layout/row_account.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-mergeDebugResources-3:/layout/fragment_stats.xml",
+        "source": "com.example.pennysense.app-main-6:/layout/fragment_stats.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-mergeDebugResources-3:/layout/sample_category_item.xml",
+        "source": "com.example.pennysense.app-main-6:/layout/sample_category_item.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.example.pennysense.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-mergeDebugResources-3:/layout/fragment_transactions.xml",
+        "source": "com.example.pennysense.app-main-6:/layout/fragment_transactions.xml"
+    }
+]

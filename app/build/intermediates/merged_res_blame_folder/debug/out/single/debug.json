@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_ic_search.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_img.png.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/xml_backup_rules.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/layout_fragment_transactions.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/layout/fragment_transactions.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pennysense.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pennysense.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_ic_other.png.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/ic_other.png"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_default_selector.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/default_selector.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pennysense.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_ic_salary.png.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/ic_salary.png"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_ic_business.png.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/ic_business.png"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/menu_top_menu.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/menu/top_menu.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_empty_state.png.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/empty_state.png"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pennysense.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_ic_chevron.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/ic_chevron.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/font_roboto_medium.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/font/roboto_medium.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_ic_chart.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/ic_chart.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_expense_selector.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/expense_selector.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_ic_star.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_ic_book.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/ic_book.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/layout_list_dialog.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/layout/list_dialog.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_dialog_bg.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/dialog_bg.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.pennysense.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_ic_rent.png.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/ic_rent.png"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pennysense.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/font_roboto_bold.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/font/roboto_bold.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/layout_sample_category_item.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/layout/sample_category_item.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_ic_plus.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/ic_plus.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pennysense.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_accounts_bg.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/accounts_bg.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_ic_investment.png.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/ic_investment.png"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_category_bg.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/category_bg.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/layout_fragment_add_transaction.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/layout/fragment_add_transaction.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_ic_more.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/ic_more.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/layout_row_account.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/layout/row_account.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_ic_accounts.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/ic_accounts.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/layout_fragment_stats.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/layout/fragment_stats.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.pennysense.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/layout_row_transaction.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/layout/row_transaction.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_ic_loan.png.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/ic_loan.png"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/menu_bottom_menu.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/drawable_income_selector.xml.flat",
+        "source": "com.example.pennysense.app-main-6:/drawable/income_selector.xml"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pennysense.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pennysense.app-merged_res-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pennysense.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    }
+]

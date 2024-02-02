@@ -1,4 +1,4 @@
-package com.example.emanager.adapters;
+package com.example.pennysense.adapters;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -10,16 +10,13 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.emanager.R;
-import com.example.emanager.databinding.RowTransactionBinding;
-import com.example.emanager.models.Category;
-import com.example.emanager.models.Transaction;
-import com.example.emanager.utils.Constants;
-import com.example.emanager.utils.Helper;
-import com.example.emanager.views.activites.MainActivity;
-
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
+import com.example.pennysense.R;
+import com.example.pennysense.databinding.RowTransactionBinding;
+import com.example.pennysense.models.Category;
+import com.example.pennysense.models.Transaction;
+import com.example.pennysense.utils.Constants;
+import com.example.pennysense.utils.Helper;
+import com.example.pennysense.views.activites.MainActivity;
 
 import io.realm.RealmResults;
 

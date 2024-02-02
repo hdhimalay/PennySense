@@ -1,39 +1,23 @@
-package com.example.emanager.views.activites;
+package com.example.pennysense.views.activites;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
-import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
-import androidx.recyclerview.widget.LinearLayoutManager;
 
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
-import android.widget.Toast;
 
-import com.example.emanager.adapters.TransactionsAdapter;
-import com.example.emanager.models.Transaction;
-import com.example.emanager.utils.Constants;
-import com.example.emanager.utils.Helper;
-import com.example.emanager.viewmodels.MainViewModel;
-import com.example.emanager.views.fragments.AddTransactionFragment;
-import com.example.emanager.R;
-import com.example.emanager.databinding.ActivityMainBinding;
-import com.example.emanager.views.fragments.StatsFragment;
-import com.example.emanager.views.fragments.TransactionsFragment;
+import com.example.pennysense.utils.Constants;
+import com.example.pennysense.viewmodels.MainViewModel;
+import com.example.pennysense.R;
+import com.example.pennysense.databinding.ActivityMainBinding;
+import com.example.pennysense.views.fragments.StatsFragment;
+import com.example.pennysense.views.fragments.TransactionsFragment;
 import com.google.android.material.navigation.NavigationBarView;
-import com.google.android.material.tabs.TabLayout;
 
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
 import java.util.Calendar;
-import java.util.Date;
-
-import io.realm.Realm;
-import io.realm.RealmResults;
 
 public class MainActivity extends AppCompatActivity {
 

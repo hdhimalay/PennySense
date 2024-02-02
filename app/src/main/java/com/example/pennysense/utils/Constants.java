@@ -1,7 +1,7 @@
-package com.example.emanager.utils;
+package com.example.pennysense.utils;
 
-import com.example.emanager.R;
-import com.example.emanager.models.Category;
+import com.example.pennysense.R;
+import com.example.pennysense.models.Category;
 
 import java.util.ArrayList;
 

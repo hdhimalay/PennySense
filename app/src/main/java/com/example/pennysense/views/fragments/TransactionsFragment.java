@@ -1,4 +1,4 @@
-package com.example.emanager.views.fragments;
+package com.example.pennysense.views.fragments;
 
 import android.os.Bundle;
 
@@ -11,14 +11,13 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.emanager.R;
-import com.example.emanager.adapters.TransactionsAdapter;
-import com.example.emanager.databinding.FragmentTransactionsBinding;
-import com.example.emanager.models.Transaction;
-import com.example.emanager.utils.Constants;
-import com.example.emanager.utils.Helper;
-import com.example.emanager.viewmodels.MainViewModel;
-import com.example.emanager.views.activites.MainActivity;
+import com.example.pennysense.R;
+import com.example.pennysense.adapters.TransactionsAdapter;
+import com.example.pennysense.databinding.FragmentTransactionsBinding;
+import com.example.pennysense.models.Transaction;
+import com.example.pennysense.utils.Constants;
+import com.example.pennysense.utils.Helper;
+import com.example.pennysense.viewmodels.MainViewModel;
 import com.google.android.material.tabs.TabLayout;
 
 import java.util.Calendar;

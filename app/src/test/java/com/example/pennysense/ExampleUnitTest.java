@@ -1,4 +1,4 @@
-package com.example.emanager;
+package com.example.pennysense;
 
 import org.junit.Test;
 

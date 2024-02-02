@@ -1,6 +1,6 @@
-package com.example.emanager.views.fragments;
+package com.example.pennysense.views.fragments;
 
-import static com.example.emanager.utils.Constants.SELECTED_STATS_TYPE;
+import static com.example.pennysense.utils.Constants.SELECTED_STATS_TYPE;
 
 import android.os.Bundle;
 
@@ -16,14 +16,12 @@ import com.anychart.AnyChart;
 import com.anychart.chart.common.dataentry.DataEntry;
 import com.anychart.chart.common.dataentry.ValueDataEntry;
 import com.anychart.charts.Pie;
-import com.anychart.enums.Align;
-import com.anychart.enums.LegendLayout;
-import com.example.emanager.R;
-import com.example.emanager.databinding.FragmentStatsBinding;
-import com.example.emanager.models.Transaction;
-import com.example.emanager.utils.Constants;
-import com.example.emanager.utils.Helper;
-import com.example.emanager.viewmodels.MainViewModel;
+import com.example.pennysense.R;
+import com.example.pennysense.databinding.FragmentStatsBinding;
+import com.example.pennysense.models.Transaction;
+import com.example.pennysense.utils.Constants;
+import com.example.pennysense.utils.Helper;
+import com.example.pennysense.viewmodels.MainViewModel;
 import com.google.android.material.tabs.TabLayout;
 
 import java.util.ArrayList;

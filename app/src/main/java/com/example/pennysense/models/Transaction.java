@@ -1,4 +1,4 @@
-package com.example.emanager.models;
+package com.example.pennysense.models;
 
 import java.util.Date;
 

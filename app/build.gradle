@@ -3,7 +3,7 @@ plugins {
 }
 apply plugin: "realm-android"
 android {
-    namespace 'com.example.emanager'
+    namespace 'com.example.pennysense'
     compileSdk 33
 
     buildFeatures {
@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.example.emanager"
+        applicationId "com.example.pennysense"
         minSdk 24
         targetSdk 33
         versionCode 1

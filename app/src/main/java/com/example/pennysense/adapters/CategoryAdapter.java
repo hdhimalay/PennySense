@@ -1,4 +1,4 @@
-package com.example.emanager.adapters;
+package com.example.pennysense.adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,9 +8,9 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.emanager.R;
-import com.example.emanager.databinding.SampleCategoryItemBinding;
-import com.example.emanager.models.Category;
+import com.example.pennysense.R;
+import com.example.pennysense.databinding.SampleCategoryItemBinding;
+import com.example.pennysense.models.Category;
 
 import java.util.ArrayList;
 

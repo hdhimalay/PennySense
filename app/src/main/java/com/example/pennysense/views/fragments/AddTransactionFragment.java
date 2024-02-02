@@ -1,10 +1,9 @@
-package com.example.emanager.views.fragments;
+package com.example.pennysense.views.fragments;
 
 import android.app.AlertDialog;
 import android.app.DatePickerDialog;
 import android.os.Bundle;
 
-import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
@@ -12,20 +11,19 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.emanager.R;
-import com.example.emanager.adapters.AccountsAdapter;
-import com.example.emanager.adapters.CategoryAdapter;
-import com.example.emanager.databinding.FragmentAddTransactionBinding;
-import com.example.emanager.databinding.ListDialogBinding;
-import com.example.emanager.models.Account;
-import com.example.emanager.models.Category;
-import com.example.emanager.models.Transaction;
-import com.example.emanager.utils.Constants;
-import com.example.emanager.utils.Helper;
-import com.example.emanager.views.activites.MainActivity;
+import com.example.pennysense.R;
+import com.example.pennysense.adapters.AccountsAdapter;
+import com.example.pennysense.adapters.CategoryAdapter;
+import com.example.pennysense.databinding.FragmentAddTransactionBinding;
+import com.example.pennysense.databinding.ListDialogBinding;
+import com.example.pennysense.models.Account;
+import com.example.pennysense.models.Category;
+import com.example.pennysense.models.Transaction;
+import com.example.pennysense.utils.Constants;
+import com.example.pennysense.utils.Helper;
+import com.example.pennysense.views.activites.MainActivity;
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment;
 
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
 

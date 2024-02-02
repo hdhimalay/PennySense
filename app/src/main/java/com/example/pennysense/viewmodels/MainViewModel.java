@@ -1,4 +1,4 @@
-package com.example.emanager.viewmodels;
+package com.example.pennysense.viewmodels;
 
 import android.app.Application;
 
@@ -6,8 +6,8 @@ import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.MutableLiveData;
 
-import com.example.emanager.models.Transaction;
-import com.example.emanager.utils.Constants;
+import com.example.pennysense.models.Transaction;
+import com.example.pennysense.utils.Constants;
 
 import java.util.Calendar;
 import java.util.Date;
